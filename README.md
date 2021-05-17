@@ -1,7 +1,8 @@
 # hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rafaela Rodrigues and I am studying about Systems Development at Senai. 
-I'm from Brazil, I live in Resende in Rio de Janeiro. 
+- 💬 My name is Rafaela Rodrigues and I am studying about Systems Development at Senai. 
+
+- 💬 I'm from Brazil, I live in Resende in Rio de Janeiro. 
 
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 &nbsp; <a href="mailto:rafaelarodrigues.inacio@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
